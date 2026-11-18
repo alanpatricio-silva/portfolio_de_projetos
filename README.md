@@ -9,4 +9,4 @@ Bem-vindo ao código-fonte da nova versão do meu portfólio profissional! Este 
 
 ## 🌐 Acesso Online
 Você pode acessar a versão ao vivo hospedada no GitHub Pages através do link:
-[https://seu-usuario.github.io](alanpatricio-silva.github.io/portfolio_de_projetos/)
+ <a href="https://alanpatricio-silva.github.io/portfolio_de_projetos/"><b>Portfólio →</b></a>
